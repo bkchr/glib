@@ -33,8 +33,14 @@ pub use self::enums::TimeType;
 
 mod flags;
 pub use self::flags::FileTest;
+
+mod flags;
 pub use self::flags::FormatSizeFlags;
+
+mod flags;
 pub use self::flags::IOCondition;
+
+mod flags;
 pub use self::flags::KeyFileFlags;
 
 mod alias;
